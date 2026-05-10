@@ -46,6 +46,8 @@ dist/
 .DS_Store
 Thumbs.db
 Desktop.ini
+# Windows redirect artifact
+nul
 
 # ─── Project ─────────────────────────────────────────────────────
 opencode.jsonc

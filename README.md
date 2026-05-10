@@ -254,7 +254,7 @@ Device / Browser
 | `azure-mgmt-notificationhubs` | **Resource management** — create/delete Notification Hub namespaces and hubs. Uses Azure Resource Manager API. |
 | `@azure/notification-hubs` (Node.js) | **Send notifications** — full operations SDK. But Node.js only. |
 
-For Python, Microsoft's [official documentation](https://learn.microsoft.com/en-us/azure/notification-hubs/notification-hubs-python-push-notification-rest-wrapper) recommends building your own REST client or using a community wrapper.
+For Python, Microsoft's [official documentation](https://github.com/Azure/azure-notificationhubs-samples/tree/main/notificationhubs-rest-python) recommends building your own REST client or using a community wrapper.
 
 This SDK is that community wrapper — a **complete port** of the Node.js SDK covering:
 - All 9 notification platforms
